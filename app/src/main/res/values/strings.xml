@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ManejoServicioKotlin</string>
+    <string name="creaserv">Servicio creado</string>
+    <string name="finaserv">Servicio finalizado</string>
+    <string name="iniserv">Servicio iniciado</string>
+</resources>
